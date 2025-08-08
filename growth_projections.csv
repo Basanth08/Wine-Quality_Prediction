@@ -1,0 +1,4 @@
+"scenario","annual_growth","year_1","year_2"
+"Conservative",0.05,1200.15,1260.1575
+"Moderate",0.1,1257.3,1383.03
+"Optimistic",0.15,1314.45,1511.6175
